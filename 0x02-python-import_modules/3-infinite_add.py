@@ -2,7 +2,7 @@
 # 3-infinite_add.py
 # Brennan D Baraban <375@holbertonschool.com>
 
-if __name__ == "__main__":
+if __name__== "__main__":
     """print the addition of all arguments."""
     import sys
 
