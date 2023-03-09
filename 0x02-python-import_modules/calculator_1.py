@@ -9,7 +9,7 @@ def add(a, b):
     Returns:
         The return value. a + b
     """
-    return (a + b)
+    return int(a + b)
 
 
 def sub(a, b):
@@ -22,7 +22,7 @@ def sub(a, b):
     Returns:
         The return value. a - b
     """
-    return (a - b)
+    return int(a - b)
 
 
 def mul(a, b):
@@ -35,7 +35,7 @@ def mul(a, b):
     Returns:
         The return value. a * b
     """
-    return (a * b)
+    return int(a * b)
 
 
 def div(a, b):
