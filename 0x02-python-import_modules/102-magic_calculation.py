@@ -5,7 +5,7 @@
 
 def magic_calculation(a, b):
     """Match bytecode provided by Holberton School."""
-    from magic_calucation_102 import add, sub
+    from calculator_1.py  import add, sub
 
     if a < b:
         c = add(a, b)
