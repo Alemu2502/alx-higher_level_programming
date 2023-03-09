@@ -3,7 +3,7 @@
 # Brennan D Baraban <375@holbertonschool.com>
 
 
-def magic_calculator(a, b):
+def magic_calculation(a, b):
     """Match bytecode provided by Holberton School."""
     from magic_calucation_102 import add, sub
 
