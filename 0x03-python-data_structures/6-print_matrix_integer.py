@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 6-print_matrix_integer.py
-# Kobo Highschool <375@kobohighschool.com>
+# Kobo D Highschool <375@kobohighschool.com>
 
 
 def print_matrix_integer(matrix=[[]]):

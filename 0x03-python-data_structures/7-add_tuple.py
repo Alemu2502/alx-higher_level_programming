@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 7-add_tuple.py
-# Kobo D highschool <375@kobohighschool.com>
+# Kobo D Highschool <375@kobohighschool.com>
 
 def add_tuple(tuple_a=(), tuple_b=()):
     """Add two tuples."""
