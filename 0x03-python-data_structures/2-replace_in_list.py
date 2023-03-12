@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 2-replace_in_list.py
-# Kobo Highschool <375@kobohighschool.com>
+Brennan D Baraban <375@holbertonschool.com>
 
 
 def replace_in_list(my_list, idx, element):
