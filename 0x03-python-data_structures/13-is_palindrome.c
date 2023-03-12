@@ -73,4 +73,3 @@ rev = rev->next;
 reversae_listint(&mid);
 return (1);
 }
-
